@@ -1,0 +1,22 @@
+ru:
+  active_admin:
+    powered_by: ""
+    globalize:
+      language:
+        en: "Английский"
+        ru: "Русский"
+    devise:
+      email:
+        title: "Почта"
+      password:
+        title: "Пароль"
+
+  formtastic:
+    yes: "Да"
+    no: "Нет"
+    create: "Создать"
+    update: "Обновить"
+    submit: "Сохранить"
+    cancel: "Отмена"
+    reset: "Сбросить"
+    required: "обязательное"
